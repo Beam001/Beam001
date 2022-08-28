@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data analytics and Project Management
 - 🌱 I’m an enthusiast of Data tools; SQL, R, Python, Tableau, and Power Bi
 - 💞️ I’m looking to collaborate on the above to upskill
-- 📫 How to reach me - reach me here @github
+- 📫 How to reach me - reach me here solubimo@gmail.com / www.linkedin.com/in/segun-olubimo
 
 <!---
 Beam001/Beam001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
